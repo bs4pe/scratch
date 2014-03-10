@@ -1,0 +1,1 @@
+Does the master branch cover all repositories?  Why make other branches?  Is it like having forks but forks that you alone can edit?
